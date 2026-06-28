@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhoomi Jain  
 
-🎓 Integrated M.Tech AIML Student @ VIT Bhopal  
+🎓 Integrated M.Tech AIML Student @ VIT 
 💻 Python | GitHub | VS Code | AIML Enthusiast    
 
 ---
