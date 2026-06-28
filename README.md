@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Bhoomi Jain  
 
 🎓 Integrated M.Tech AIML Student @ VIT Bhopal  
-💻 Python | GitHub | VS Code | AIML Enthusiast  
-🚀 Goal: Achieve 60 LPA campus placement  
+💻 Python | GitHub | VS Code | AIML Enthusiast    
 
 ---
 
