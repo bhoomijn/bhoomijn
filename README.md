@@ -25,16 +25,19 @@ Aspiring Data Scientist | Python & ML Enthusiast
 
 ## 📂 Featured Projects  
 
+- [Snake-Water-Gun Game](https://github.com/bhoomijn/snake-water-gun-game)  
+  A fun Python mini-project implementing the classic Snake-Water-Gun game.  
+  Features: multiple rounds, score tracking, replay option, and interactive messages.  
+
 - [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects)  
-  Daily Python practice & mini projects (Snake-Water-Gun game, calculator, etc.)  
+  Daily Python practice & mini projects (calculator, number guessing, etc.)  
 
 - AIML Mini Projects (coming soon 🚀)  
   Hands-on ML models, data preprocessing, and visualization  
 
 - [Portfolio Website](https://github.com/bhoomijn/portfolio)  
   Personal portfolio built with HTML/CSS/JS (coming soon)  
- 
-- [C++ DSA Practice](https://github.com/bhoomijn/cpp-dsa-practice) – Practicing data structures and algorithms in C++  
+
 
 ---
 
