@@ -5,7 +5,7 @@ Aspiring Data Scientist | Python & ML Enthusiast
 
 ## 🌟 About Me
 - Passionate about Artificial Intelligence & Machine Learning  
-- Building strong foundations in Python, DSA, and Git  
+- Skilled in Python, C, and C++ programming    
 - Exploring projects and contributing to open-source  
 - Consistent learner, documenting my journey on GitHub  
 
@@ -17,6 +17,9 @@ Aspiring Data Scientist | Python & ML Enthusiast
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
 
 ---
 
@@ -31,6 +34,7 @@ Aspiring Data Scientist | Python & ML Enthusiast
 - [Portfolio Website](https://github.com/bhoomijn/portfolio)  
   Personal portfolio built with HTML/CSS/JS (coming soon)  
  
+- [C++ DSA Practice](https://github.com/bhoomijn/cpp-dsa-practice) – Practicing data structures and algorithms in C++  
 
 ---
 
