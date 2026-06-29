@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Bhoomi Jain  
-
-🎓 Integrated M.Tech AIML Student @ VIT 
-💻 Python | GitHub | VS Code | AIML Enthusiast    
+# 🎓 Bhoomi Jain | Integrated M.Tech AIML Student @ VIT 
+Aspiring Data Scientist | Python & ML Enthusiast  
 
 ---
 
@@ -18,6 +16,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AIML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
+## 📂 Featured Projects  
+- [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects) – Daily Python practice & mini projects  
+- AIML mini projects (coming soon 🚀)  
 
 ---
 
