@@ -21,8 +21,16 @@ Aspiring Data Scientist | Python & ML Enthusiast
 ---
 
 ## 📂 Featured Projects  
-- [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects) – Daily Python practice & mini projects  
-- AIML mini projects (coming soon 🚀)  
+
+- [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects)  
+  Daily Python practice & mini projects (Snake-Water-Gun game, calculator, etc.)  
+
+- AIML Mini Projects (coming soon 🚀)  
+  Hands-on ML models, data preprocessing, and visualization  
+
+- [Portfolio Website](https://github.com/bhoomijn/portfolio)  
+  Personal portfolio built with HTML/CSS/JS (coming soon)  
+ 
 
 ---
 
