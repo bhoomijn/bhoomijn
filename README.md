@@ -44,10 +44,11 @@ Aspiring Data Scientist | Python & ML Enthusiast
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomijn&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomijn&theme=tokyonight&cache_seconds=60" />
 </div>
+
 
 
 
