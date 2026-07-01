@@ -1,68 +1,60 @@
-# 🎓 Bhoomi Jain | Integrated M.Tech AIML Student @ VIT 
-Aspiring Data Scientist | Python & ML Enthusiast  
+# Bhoomi Jain | Software Developer & AI/ML Enthusiast
+
+Integrated M.Tech AIML Student @ VIT | Python Developer | Problem Solver
 
 ---
 
 ## 🌟 About Me
-- Passionate about Artificial Intelligence & Machine Learning  
-- Skilled in Python, C, and C++ programming    
-- Exploring projects and contributing to open-source  
-- Consistent learner, documenting my journey on GitHub  
+
+Software developer passionate about building efficient solutions and exploring AI/ML technologies. Skilled in Python, problem-solving, and clean code practices. Actively learning and building projects to strengthen development fundamentals.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-- [Snake-Water-Gun Game](https://github.com/bhoomijn/snake-water-gun-game)  
-  A fun Python mini-project implementing the classic Snake-Water-Gun game.  
-  Features: multiple rounds, score tracking, replay option, and interactive messages.  
+### [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects)
+Structured Python practice with professional-grade code examples covering functions, loops, data structures, and file handling.
 
-- [Python Basics to Projects](https://github.com/bhoomijn/python-basics-to-projects)  
-  Daily Python practice & mini projects (calculator, number guessing, etc.)  
+### [Snake-Water-Gun Game](https://github.com/bhoomijn/snake-water-gun-game)
+Console-based game implementation showcasing game logic, user input handling, and score management.
 
-- AIML Mini Projects (coming soon 🚀)  
-  Hands-on ML models, data preprocessing, and visualization  
+---
 
-- [Portfolio Website](https://github.com/bhoomijn/portfolio)  
-  Personal portfolio built with HTML/CSS/JS (coming soon)  
+## 🎯 Current Focus
 
+- Building clean, maintainable code with best practices
+- Data structures and algorithms
+- Python development fundamentals
+- Open-source contributions
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight&cache_seconds=60" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight&cache_seconds=60" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomijn&theme=tokyonight&cache_seconds=60" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Focus
-- Daily Python practice  
-- Preparing for AIML coursework @ VIT Bhopal  
-- Building projects for placements  
-- Exploring freelancing & internships  
+## 📫 Connect
+
+- **Email:** [bhoomijn4@gmail.com](mailto:bhoomijn4@gmail.com)
+- **LinkedIn:** [Bhoomi Jain](https://www.linkedin.com/in/bhoomi-jain-3287803b5)
 
 ---
 
-## 📫 Connect With Me  
-- LinkedIn: [Bhoomi Jain](https://www.linkedin.com/in/bhoomi-jain-3287803b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- Email: [bhoomijn4@gmail.com](mailto:bhoomijn4@gmail.com)  
+## 📜 License
 
+All projects are licensed under the MIT License unless stated otherwise.
