@@ -1,57 +1,58 @@
-[ CUSTOM BANNER ]
+------------------------------------------------
 
-BHOOMI JAIN
-Building Intelligent Systems That Matter.
+                 BHOOMI JAIN
 
-[ LinkedIn ] [ LeetCode ] [ Kaggle ] [ Gmail ]
+       Building Intelligent Systems That Matter.
+
+------------------------------------------------
+
+[LinkedIn] [LeetCode] [Gmail]
 
 Profile Views | Followers | Stars
 
-------------------------------------
+------------------------------------------------
 
-### About
+About
 
-Integrated M.Tech (AI & ML) student at VIT Bhopal passionate about
-Artificial Intelligence, Machine Learning, and Generative AI.
+Integrated M.Tech (AI & ML) student at VIT Bhopal.
+Passionate about Artificial Intelligence, Machine
+Learning, and building impactful technology.
 
-Currently exploring Large Language Models, RAG, AI Agents, and building
-projects that create real-world impact.
+------------------------------------------------
 
-------------------------------------
+Currently Exploring
 
-### Currently Exploring
-
-• Large Language Models (LLMs)
-• Retrieval-Augmented Generation (RAG)
+• LLMs
+• RAG
 • AI Agents
 • LangChain
 • PyTorch
 
-------------------------------------
+------------------------------------------------
 
-### Tech Stack
+Tech Stack
 
-(Python Icon) (Git Icon) (GitHub Icon)
-(SQL Icon) (PyTorch Icon) (VS Code Icon)
-(LangChain Icon) (Docker Icon)
+(Python) (Git) (GitHub)
+(SQL) (PyTorch) (VS Code)
+(Docker)
 
-------------------------------------
+------------------------------------------------
 
-### Featured Projects
+GitHub Analytics
+
+[Stats]
+[Streak]
+[Top Languages]
+
+------------------------------------------------
+
+Featured Projects
 
 🌾 AgriVision-AI
 🌌 AI Galaxy Dashboard
 🐍 Snake Game AI
 🤖 AI Internship Projects
 
-------------------------------------
-
-### GitHub Analytics
-
-[ GitHub Stats ]
-[ GitHub Streak ]
-[ Top Languages ]
-
-------------------------------------
+------------------------------------------------
 
 "Building AI, one project at a time."
