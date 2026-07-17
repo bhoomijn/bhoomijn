@@ -1,58 +1,30 @@
-------------------------------------------------
+<h1 align="center">Hi 👋, I'm Bhoomi Jain</h1>
 
-                 BHOOMI JAIN
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Building+Intelligent+Systems+That+Matter;Integrated+M.Tech+%28AI+%26+ML%29+%40+VIT+Bhopal" />
+</p>
 
-       Building Intelligent Systems That Matter.
+<p align="center">
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="YOUR_LEETCODE">LeetCode</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-------------------------------------------------
+---
 
-[LinkedIn] [LeetCode] [Gmail]
+### 👩‍💻 About Me
 
-Profile Views | Followers | Stars
+```python
+class Bhoomi:
 
-------------------------------------------------
+    def __init__(self):
+        self.role = "AIML Student"
+        self.college = "VIT Bhopal"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI"
+        ]
 
-About
-
-Integrated M.Tech (AI & ML) student at VIT Bhopal.
-Passionate about Artificial Intelligence, Machine
-Learning, and building impactful technology.
-
-------------------------------------------------
-
-Currently Exploring
-
-• LLMs
-• RAG
-• AI Agents
-• LangChain
-• PyTorch
-
-------------------------------------------------
-
-Tech Stack
-
-(Python) (Git) (GitHub)
-(SQL) (PyTorch) (VS Code)
-(Docker)
-
-------------------------------------------------
-
-GitHub Analytics
-
-[Stats]
-[Streak]
-[Top Languages]
-
-------------------------------------------------
-
-Featured Projects
-
-🌾 AgriVision-AI
-🌌 AI Galaxy Dashboard
-🐍 Snake Game AI
-🤖 AI Internship Projects
-
-------------------------------------------------
-
-"Building AI, one project at a time."
+    def motto(self):
+        return "Building Intelligent Systems That Matter"
