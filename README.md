@@ -1,68 +1,100 @@
-<h1 align="center">Bhoomi Jain</h1>
+<div align="center">
 
-<p align="center">
-  <b>Integrated M.Tech (Artificial Intelligence & Machine Learning) @ VIT Bhopal</b>
-</p>
+# Bhoomi Jain
 
-<p align="center">
-  AI Enthusiast • Python Developer • Lifelong Learner
-</p>
+### Building Intelligent Systems That Matter.
 
----
+🎓 Integrated M.Tech (Artificial Intelligence & Machine Learning) @ VIT Bhopal
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](YOUR_KAGGLE)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
-- Pursuing Integrated M.Tech in Artificial Intelligence & Machine Learning at VIT Bhopal.
-- Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
-- Building impactful projects and continuously improving my problem-solving skills.
-- Currently focused on Python, Data Structures & Algorithms, and AI Engineering.
-- Interested in research, hackathons, internships, and open-source contributions.
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+</div>
 
 ---
 
-### Technical Skills
+## About Me
 
-- **Languages:** Python, SQL
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science, Generative AI
-- **Learning:** DSA, PyTorch, LangChain, RAG
-
----
-
-### Featured Work
-
-- AgriVision-AI
-- AI Galaxy Dashboard
-- Snake Game AI
-- Movie Recommendation System
-- Spam Detection System
-- To-Do List Manager
+- 🎓 Integrated M.Tech (AI & ML) Student at VIT Bhopal.
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+- 💻 Building projects that solve real-world problems.
+- 🌱 Currently learning Data Structures & Algorithms, PyTorch, and LangChain.
+- 🚀 Actively participating in internships, hackathons, and open-source initiatives.
 
 ---
 
-### Current Goals
+## Currently Exploring
 
-- Solve 100+ LeetCode problems.
-- Build production-ready AI projects.
-- Participate in national-level hackathons.
-- Contribute to open-source projects.
-- Secure impactful internships in AI/ML.
-
----
-
-### Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your.email@gmail.com
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- PyTorch
+- Open Source
 
 ---
 
-### Quote
+## Tech Stack
 
-> *"Building AI, one project at a time."*
+```text
+Python • SQL • Git • GitHub • VS Code
+PyTorch • LangChain • RAG • Machine Learning
+```
 
 ---
 
-<p align="center">
-  Thank you for visiting my profile.
-</p>
+## Featured Projects
+
+- 🌾 AgriVision-AI
+- 🌌 AI Galaxy Dashboard
+- 🐍 Snake Game AI
+- 🤖 IncodeVision AI Internship Projects
+- 📊 Kaggle Learn Notebooks
+- ✅ Syntecxhub To-Do List Manager
+
+---
+
+## GitHub Stats
+
+```md
+(Add these images)
+
+GitHub Stats
+GitHub Streak
+Top Languages
+```
+
+Use:
+
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/DenverCoder1/github-readme-streak-stats
+
+---
+
+## 2026 Goals
+
+- [ ] Solve 100+ LeetCode Problems
+- [ ] Build 10+ Quality Projects
+- [ ] Participate in National-Level Hackathons
+- [ ] Contribute to Open Source
+- [ ] Secure AI/ML Internships
+- [ ] Maintain Consistent GitHub Activity
+
+---
+
+## Let's Connect
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+<div align="center">
+
+### "Building AI, one project at a time."
+
+</div>
