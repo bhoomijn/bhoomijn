@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Bhoomi Jain</h1>
 
-<!--
-**bhoomijn/bhoomijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Integrated M.Tech (Artificial Intelligence & Machine Learning) @ VIT Bhopal</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  AI Enthusiast • Python Developer • Lifelong Learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- Pursuing Integrated M.Tech in Artificial Intelligence & Machine Learning at VIT Bhopal.
+- Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+- Building impactful projects and continuously improving my problem-solving skills.
+- Currently focused on Python, Data Structures & Algorithms, and AI Engineering.
+- Interested in research, hackathons, internships, and open-source contributions.
+
+---
+
+### Technical Skills
+
+- **Languages:** Python, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science, Generative AI
+- **Learning:** DSA, PyTorch, LangChain, RAG
+
+---
+
+### Featured Work
+
+- AgriVision-AI
+- AI Galaxy Dashboard
+- Snake Game AI
+- Movie Recommendation System
+- Spam Detection System
+- To-Do List Manager
+
+---
+
+### Current Goals
+
+- Solve 100+ LeetCode problems.
+- Build production-ready AI projects.
+- Participate in national-level hackathons.
+- Contribute to open-source projects.
+- Secure impactful internships in AI/ML.
+
+---
+
+### Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Email: your.email@gmail.com
+
+---
+
+### Quote
+
+> *"Building AI, one project at a time."*
+
+---
+
+<p align="center">
+  Thank you for visiting my profile.
+</p>
