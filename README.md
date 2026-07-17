@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bhoomi%20Jain&fontSize=65&fontAlign=50&fontAlignY=38&desc=Exploring%20Intelligence.%20Building%20the%20Future.&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Bhoomi%20Jain&fontSize=60&fontAlign=50&fontAlignY=38&desc=Exploring%20Intelligence.%20Building%20the%20Future.&descAlignY=58"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Hackathons+%7C+Projects+%7C+Open+Source;Turning+Curiosity+Into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Hackathons+%7C+Projects+%7C+Open+Source;Turning+Curiosity+Into+Intelligent+Systems" />
 
 <br>
 
@@ -20,36 +20,30 @@
 
 ---
 
-<img align="right" alt="AI Girl Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ## About Me
 
-I'm an Integrated M.Tech student specializing in Artificial Intelligence & Machine Learning at VIT.
+I'm pursuing an Integrated M.Tech in Artificial Intelligence & Machine Learning at VIT, with a strong interest in building intelligent systems and exploring emerging technologies.
 
-Passionate about intelligent systems and emerging technologies, I enjoy building projects that combine creativity with problem-solving. My interests span Artificial Intelligence, Machine Learning, Generative AI, and the future of human-computer interaction.
+I enjoy learning by building, participating in hackathons, and transforming ideas into meaningful projects. My interests include Artificial Intelligence, Machine Learning, Generative AI, and Large Language Models.
 
-I believe that consistency, curiosity, and continuous learning are the keys to meaningful innovation.
-
-<br>
+---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,docker,pytorch,tensorflow,linux&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql,docker,pytorch,tensorflow,linux&perline=5" />
 </p>
 
 ---
 
 ## Currently Exploring
 
-```text
-• Large Language Models (LLMs)
-• Retrieval-Augmented Generation (RAG)
-• AI Agents
-• LangChain
-• PyTorch
-• Open Source
-```
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- PyTorch
+- Open Source
 
 ---
 
@@ -58,9 +52,9 @@ I believe that consistency, curiosity, and continuous learning are the keys to m
 | Project | Description |
 |--------|--------|
 | 🌾 AgriVision-AI | AI-powered crop disease detection platform. |
-| 🌌 AI Galaxy Dashboard | React + Tailwind hackathon dashboard. |
+| 🌌 AI Galaxy Dashboard | React + Tailwind hackathon project. |
 | 🐍 Snake Game AI | Parsewave Game Jam 2026 project. |
-| 🤖 AI Internship Projects | Chatbot, Spam Detector & Recommender Systems. |
+| 🤖 AI Internship Projects | Chatbot, Spam Detector, and Recommender Systems. |
 | 📊 Movie Recommendation System | Personalized recommendation engine. |
 | ✅ Syntecxhub To-Do Manager | Python-based productivity application. |
 
@@ -82,18 +76,10 @@ I believe that consistency, curiosity, and continuous learning are the keys to m
 
 ## Fun Facts
 
-- I love learning by building.
+- I enjoy learning by building.
 - Hackathons are my favorite classroom.
-- Coffee and code make a great combination.
-- I enjoy turning ideas into impactful projects.
-
----
-
-## Contribution Graph
-
-```md
-(Add GitHub Snake Animation here later)
-```
+- Coffee + Code = Productivity.
+- I believe consistency compounds over time.
 
 ---
 
