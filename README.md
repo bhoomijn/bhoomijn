@@ -1,30 +1,30 @@
-# Bhoomi Jain ✨ — Maker of clean ML + polished UIs
+# Bhoomi Jain — Maker of Clean ML & Polished UIs ✨
 
-I build small, useful ML demos, automation that actually saves time, and front‑end projects that look like they were made for a slick product launch — not just homework.
+I build tight, demo‑ready ML prototypes, practical automation tools, and clean front‑end experiences that look and feel product‑ready.
 
-🚀 TL;DR
-- I ship practical prototypes that people can run in 5 minutes.
-- I care about UX polish, tiny fast models, and automation that removes pain.
-- Looking for collabs, freelance gigs & short ML/product projects.
+Think: demos that run in 5 minutes, docs that don’t suck, and repos anyone can show in an interview.
 
-What I actually build
-- Tiny ML demos you can run locally and show off to non‑technical people.
-- Automation scripts that remove annoying manual work.
-- Reusable React UI bits with clean animations and a neon/dark aesthetic when it fits.
+Highlights
+- Role: Software Engineer — Python, React, ML prototypes
+- Focus: practical ML + tooling, UX polish, and fast iteration
+- Open to: freelance gigs, short contracts, collaborations
 
-Featured (hot)
-- AgriVision‑AI — Plant disease detection demo (Python, Flask, small ML)  
-  https://github.com/bhoomijn/AgriVision-AI — demoable in minutes
-- AI‑Galaxy‑Dashboard — Neon‑dark dashboard prototype (React + Tailwind)  
-  https://github.com/bhoomijn/AI-Galaxy-Dashboard — polished UI hacks
-- CodeAlpha_Automation — Practical automation scripts (Python)  
-  https://github.com/bhoomijn/CodeAlpha_Automation — tools that save time
+Featured Projects
+- AgriVision‑AI — Plant disease detection demo (Python, Flask, tiny vision model)
+  https://github.com/bhoomijn/AgriVision-AI
+- AI‑Galaxy‑Dashboard — Neon/dark dashboard prototype (React + Tailwind)
+  https://github.com/bhoomijn/AI-Galaxy-Dashboard
+- CodeAlpha_Automation — Automation scripts & small utilities (Python)
+  https://github.com/bhoomijn/CodeAlpha_Automation
 
-Skills & tools
-Python • Flask • PyTorch/TensorFlow (mini models) • JavaScript • React • Tailwind • Vite • Docker • GitHub Actions
+What I build
+- Tiny ML demos you can run and explain in minutes (not months)
+- Automation that removes repetitive manual steps
+- Polished React components with a focus on UX and delivery
 
-Quick demo (run in 5 mins)
-- AgriVision-AI:
+Ready‑to‑run demo (example)
+- AgriVision‑AI (run locally):
+
   git clone https://github.com/bhoomijn/AgriVision-AI
   cd AgriVision-AI
   python -m venv .venv && source .venv/bin/activate
@@ -32,19 +32,20 @@ Quick demo (run in 5 mins)
   python app.py
   Open http://localhost:5000
 
-Need something specific?
-- I can:
-  - Turn a proof‑of‑concept into a demo with a GIF and deploy it.
-  - Add CI + quick tests and a deploy config (Vercel/Netlify).
-  - Clean up docs and make the repo investor/demo‑ready.
+What I can do for you
+- Turn a PoC into a demo with a short GIF and one‑click deploy
+- Add a minimal CI pipeline + tests so the project is reviewable
+- Clean README + quickstart so non‑technical folks can run it
 
-Contact & socials
+Tech stack
+Python • Flask • PyTorch/TensorFlow (mini models) • JavaScript • React • Tailwind • Vite • Docker • GitHub Actions
+
+Contact
 - LinkedIn: https://www.linkedin.com/in/bhoomi-jain-3287803b5
 - Email: bhoomijn4@gmail.com
-- Want my resume in this repo? say “upload resume”
 
-Fun facts
-- I prefer small, thoughtful projects over huge half‑done ones.
-- If it looks nice and ships, it wins.
+Extras
+- Resume: add `resume.pdf` at repo root and I’ll link it here
+- Demos: add `docs/demo.gif` or `docs/screenshot.png` in each repo and I’ll surface them in the README
 
-Made with ✨ and a tiny obsession for details.
+Made with a tiny obsession for polish — want this turned into a single‑page portfolio site? I can scaffold it and deploy to Vercel in one PR.
