@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,30:7F5AF0,60:A855F7,100:9333EA&text=Bhoomi%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Integrated%20M.Tech%20Artificial%20Intelligence%20Student&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:7F5AF0,100:2CB67D&text=Bhoomi%20Jain&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=58&animation=fadeIn"/>
 
 # 👋 Hello, I'm Bhoomi Jain
 
-### 💜 AI Student • Python Developer • Future Machine Learning Engineer
+### 🚀 Integrated M.Tech (Artificial Intelligence) Student @ VIT Bhopal
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Explorer;Building+Projects+One+Commit+at+a+Time;Learning+Today+Creating+Tomorrow;Future+AI+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Hackathon+Participant;Building+Projects+Every+Day;Always+Learning+Something+New"/>
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=7F5AF0"/>
+<a href="https://github.com/bhoomijn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/bhoomi-jain-3287803b5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:bhoomijn4@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0"/>
 
 </p>
 
@@ -30,122 +28,129 @@
 
 ---
 
-# 🌸 About Me
+# 💫 About Me
 
-```python
-class BhoomiJain:
+🎓 Integrated M.Tech in Artificial Intelligence at **VIT Bhopal**
 
-    def __init__(self):
+💻 Passionate about solving real-world problems using AI & Machine Learning
 
-        self.education = "Integrated M.Tech in Artificial Intelligence"
-        self.university = "VIT Bhopal University"
+🌱 Currently learning
 
-        self.languages = [
-            "Python",
-            "C++"
-        ]
+- Python
+- Data Structures
+- Machine Learning
+- Deep Learning
+- Git & GitHub
 
-        self.learning = [
-            "Data Structures",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Generative AI"
-        ]
+🚀 Interested in
 
-        self.interests = [
-            "AI",
-            "Problem Solving",
-            "Open Source",
-            "Hackathons"
-        ]
+- Artificial Intelligence
+- Computer Vision
+- Generative AI
+- LLM Applications
+- Smart Agriculture
+- Automation
 
-        self.goal = "Become an AI Engineer"
+✨ Goal
 
-    def life_motto(self):
+> Build impactful AI products that solve real-world problems.
 
-        return "Keep Learning • Keep Building • Keep Growing 🚀"
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+</p>
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs"/>
+</p>
+
+---
+
+### 🛠 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+### ☁️ Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+</p>
+
+</div>
+
+---
+
+# 💻 Currently Learning
+
+```text
+✔ Python Programming
+✔ C++
+✔ Data Structures & Algorithms
+✔ Machine Learning
+✔ Deep Learning
+✔ Git & GitHub
+⬜ Generative AI
+⬜ LLMs
+⬜ RAG Applications
+⬜ AI Agents
+⬜ MLOps
 ```
 
 ---
 
-# ✨ Who Am I?
+# 🚀 Developer Mindset
 
-I'm an **Integrated M.Tech (Artificial Intelligence)** student at **VIT Bhopal University** who enjoys building projects, solving problems, and learning technologies that create real-world impact.
+```python
+class BhoomiJain:
 
-I believe that consistent learning beats shortcuts. Instead of collecting certificates, I focus on strengthening my programming skills, improving problem-solving ability, and building meaningful AI applications.
+    role = "AI Student"
 
-Every project I build is another step toward becoming a better engineer.
+    university = "VIT Bhopal"
 
----
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Python",
+        "Generative AI"
+    ]
 
-# 🚀 Current Focus
-
-🧠 Learning Python & C++
-
-📚 Strengthening DSA
-
-🤖 Exploring Artificial Intelligence
-
-📊 Beginning Machine Learning
-
-💻 Building practical projects
-
-🏆 Participating in hackathons
-
-🌱 Learning something new every day
-
----
-
-# 💡 Philosophy
-
-> **"Success doesn't come from doing extraordinary things once.  
-It comes from doing ordinary things consistently."**
-
----
-
-<div align="center">
-
-### ⚡ Turning Curiosity into Code.
-
-</div>
-
----
-
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
-
-### 🤖 Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-
-### 📊 Data Science
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter"/>
-
-</div>
+    motto = "Learn • Build • Improve • Repeat 🚀"
+```
 
 ---
 
 # 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 
@@ -153,58 +158,54 @@ It comes from doing ordinary things consistently."**
 
 <td width="50%">
 
-## 🌾 AgriVision AI
+### 🌾 AgriVision AI
 
-AI-powered crop disease detection platform designed to support smart agriculture using Artificial Intelligence.
+AI-powered crop disease detection platform built for smart agriculture.
 
-**Highlights**
+#### ✨ Highlights
 
-- AI based prediction
-- Image Processing
-- Machine Learning
-- Agriculture Technology
+- 🤖 Vision Transformer AI
+- 📷 Image Classification
+- 🎯 Disease Prediction
+- 📊 Confidence Score
+- 🌱 Smart Farming Insights
 
-</td>
+**Tech**
 
-<td width="50%">
+`Python`
+`HTML`
+`AI`
+`Computer Vision`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AgriVision-AI&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📝 To-Do List Manager
-
-Python application with JSON storage to organize daily tasks efficiently.
+<a href="https://github.com/bhoomijn/AgriVision-AI">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Syntecxhub_ToDo_List_Manager&theme=tokyonight"/>
+### 🌌 AI Galaxy Dashboard
 
-</td>
+Modern AI dashboard developed for a Hackathon.
 
-</tr>
+#### ✨ Highlights
 
-<tr>
+- React
+- Tailwind CSS
+- Responsive UI
+- Dark Theme
+- Neon Design
 
-<td width="50%">
+**Tech**
 
-## 🎮 Number Guessing Game
+`React`
+`JavaScript`
+`Tailwind`
 
-Interactive Python game featuring multiple difficulty levels and score tracking.
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Syntecxhub_Number_Guessing_Game&theme=tokyonight"/>
+<a href="https://github.com/bhoomijn/AI-Galaxy-Dashboard">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -212,17 +213,57 @@ Interactive Python game featuring multiple difficulty levels and score tracking.
 
 <tr>
 
-<td width="50%">
+<td>
 
-## 🧮 Simple Calculator
+### 🤖 IncodeVision Internship
 
-Command-line calculator built with Python to strengthen programming fundamentals.
+Artificial Intelligence internship projects.
+
+✔ Chatbot
+
+✔ Spam Detection
+
+✔ Resume Screening
+
+✔ Movie Recommendation
+
+**Tech**
+
+`Python`
+
+`Machine Learning`
+
+`Data Science`
+
+<a href="https://github.com/bhoomijn/IncodeVision-Internship-Tasks-">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Syntecxhub_Simple_Calculator&theme=tokyonight"/>
+### ⚙️ CodeAlpha Automation
+
+Python automation scripts created during internship.
+
+#### Includes
+
+✔ Automation
+
+✔ Python
+
+✔ Productivity
+
+✔ Clean Code
+
+**Tech**
+
+`Python`
+
+<a href="https://github.com/bhoomijn/CodeAlpha_Automation">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -230,85 +271,63 @@ Command-line calculator built with Python to strengthen programming fundamentals
 
 </table>
 
----
-
-# 🏆 Certifications
-
-🏅 Google for Developers — AI & Creativity
-
-🏅 Kaggle — Python
-
-🏅 Nexus AI Quiz Ignite 2026
-
-🏅 Artificial Intelligence Internship
-
-🏅 Python Developer Internship
-
----
-
-# 🌱 Currently Learning
-
-```text
-███████████████████░░░ Python
-
-█████████████████░░░░░ C++
-
-██████████████░░░░░░░░ Data Structures
-
-████████████░░░░░░░░░░ Machine Learning
-
-██████████░░░░░░░░░░░░ Deep Learning
-
-████████░░░░░░░░░░░░░░ Generative AI
-```
-
----
-
-# 🎯 2026 Goals
-
-✅ Build 10+ Projects
-
-✅ Learn DSA
-
-✅ Master Python
-
-✅ Participate in Hackathons
-
-✅ Open Source Contributions
-
-✅ Build Strong GitHub Portfolio
-
----
-
-# 💼 My Development Workflow
-
-```text
-Learn 📚
-
-↓
-
-Practice 💻
-
-↓
-
-Build 🚀
-
-↓
-
-Improve 🔥
-
-↓
-
-Repeat ♾️
-```
-
----
-
-<div align="center">
-
-### ⭐ "Every project begins with a single commit."
-
 </div>
+
+---
+
+# 🏆 Achievements
+
+🥇 Google for Developers – AI & Creativity
+
+🥇 Google Student Ambassador Challenge 2026
+
+🥇 Kaggle Learn Certificates
+
+🥇 AI Hackathon Participant
+
+🥇 Multiple Internship Projects Completed
+
+🥇 Active Open Source Learner
+
+---
+
+# 📜 Certifications
+
+🎖 Google for Developers
+
+🎖 Kaggle Learn
+
+🎖 Nexus AI Quiz Ignite 2026
+
+🎖 CodeAlpha Internship
+
+🎖 IncodeVision Internship
+
+🎖 Syntecxhub Python Internship
+
+---
+
+# 📈 Current Focus
+
+```text
+🧠 Artificial Intelligence
+████████████████████ 100%
+
+🐍 Python
+███████████████████░ 95%
+
+🤖 Machine Learning
+████████████████░░░░ 80%
+
+💻 Data Structures
+█████████████░░░░░░░ 70%
+
+🌐 Web Development
+████████████░░░░░░░░ 65%
+
+🚀 Generative AI
+█████████░░░░░░░░░░░ 50%
+```
 
 ---
 
@@ -316,9 +335,9 @@ Repeat ♾️
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -328,152 +347,45 @@ Repeat ♾️
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=bhoomijn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomijn&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/bhoomijn/bhoomijn/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🧠 2026 → 2031 AI Journey
-
-| Year | Focus |
-|------|-------|
-| 🚀 2026 | Python • C++ • GitHub • Programming Fundamentals |
-| 💻 2027 | DSA • OOP • Machine Learning • Hackathons |
-| 🤖 2028 | Deep Learning • Computer Vision • NLP |
-| ⚡ 2029 | Generative AI • LLMs • Open Source |
-| ☁️ 2030 | RAG • AI Agents • MLOps • Research |
-| 🎯 2031 | Placements • AI Engineer • 30–60+ LPA Goal |
-
----
-
-# 💻 Coding Platforms
+# 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-</div>
-
----
-
-# 📅 Current Mission
-
-```text
-✔ Learn Python
-
-✔ Master C++
-
-✔ Practice DSA Daily
-
-✔ Build AI Projects
-
-✔ Participate in Hackathons
-
-✔ Contribute to Open Source
-
-✔ Build a Strong Portfolio
-
-✔ Crack Top AI Internship
-```
-
----
-
-# ⚡ Developer Mindset
-
-```python
-while True:
-
-    Learn()
-
-    Build()
-
-    Fail()
-
-    Improve()
-
-    Repeat()
-```
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# ☕ Fun Facts
-
-🌙 I enjoy building projects more than collecting certificates.
-
-🧠 Learning one concept every day.
-
-💜 AI + Creativity = My Favorite Combination.
-
-🚀 Dreaming big, building bigger.
-
----
-
-<div align="center">
-
-### ⭐ "Consistency beats talent when talent doesn't stay consistent."
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:bhoomijn4@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bhoomijn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -481,59 +393,11 @@ while True:
 
 ---
 
-# 📫 Reach Me
-
-```yaml
-Name: Bhoomi Jain
-
-University: VIT Bhopal University
-
-Degree: Integrated M.Tech (Artificial Intelligence)
-
-Email: bhoomijn4@gmail.com
-
-LinkedIn:
-https://www.linkedin.com/in/bhoomi-jain-3287803b5
-
-Open To:
-✔ Collaboration
-✔ AI Projects
-✔ Open Source
-✔ Hackathons
-✔ Learning Opportunities
-```
-
----
-
-# 🐍 Contribution Snake
-
-> **Create `.github/workflows/snake.yml` and enable GitHub Actions.**
+# 💜 Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Extra Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+### ⭐ *"Every project begins with a single commit."*
 
 </div>
 
@@ -541,54 +405,224 @@ Open To:
 
 <div align="center">
 
-## 🌟 My Journey
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:7F5AF0,100:2CB67D"/>
+
+### 🚀 Thanks for visiting my GitHub Profile!
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
+
+
+# 💼 Experience
+
+<div align="center">
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🤖 Artificial Intelligence Intern | IncodeVision | Jul 2026 – Present |
+| 🐍 Python Developer Intern | CodeAlpha | Jul 2026 – Present |
+| 💻 Python Programming Intern | Syntecxhub | 2026 |
+
+</div>
+
+---
+
+# 🗺 Roadmap
 
 ```text
-Learn 📚
-     │
-     ▼
-Practice 💻
-     │
-     ▼
-Build 🚀
-     │
-     ▼
-Improve 📈
-     │
-     ▼
-Repeat ♾️
+2026 ✅
+│
+├── Python
+├── Git & GitHub
+├── C++
+├── Internship
+├── Hackathons
+└── AI Projects
+
+2027 🚀
+│
+├── Data Structures
+├── Machine Learning
+├── Open Source
+└── More Projects
+
+2028 🎯
+│
+├── Deep Learning
+├── Computer Vision
+├── NLP
+└── Research
+
+2029 💡
+│
+├── Generative AI
+├── RAG
+├── LLM Applications
+└── AI Agents
+
+2030 🏆
+│
+├── MLOps
+├── Large Scale AI
+├── Top Internship
+└── Placement Preparation
+
+2031 ⭐
+│
+└── AI Engineer
 ```
 
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 20+ Projects
+- ✅ Master Python
+- ✅ Learn DSA
+- ✅ Learn Machine Learning
+- ✅ Participate in Hackathons
+- ✅ Contribute to Open Source
+- ✅ Grow GitHub Portfolio
+
+---
+
+# 🌟 Fun Facts
+
+```python
+bhoomi = {
+    "coffee": False,
+    "tea": True,
+    "favorite_language": "Python 🐍",
+    "dream_role": "AI Engineer",
+    "currently_learning": [
+        "Python",
+        "Machine Learning",
+        "Git",
+        "DSA"
+    ],
+    "motto": "Learn • Build • Repeat 🚀"
+}
+```
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁 Computer Vision
+- 🌾 AI in Agriculture
+- ⚡ Automation
+- 🌐 Web Development
+
+---
+
+# ❤️ Support My Work
+
+If you find my projects useful,
+
+⭐ Star the repositories
+
+🍴 Fork them
+
+💬 Share feedback
+
+🤝 Let's collaborate
+
+---
+
+# 🌟 Featured Repositories
+
+<div align="center">
+
+| Repository | Description |
+|------------|-------------|
+| 🌾 AgriVision-AI | AI-powered crop disease detection using Vision Transformer |
+| 🌌 AI-Galaxy-Dashboard | Modern React + Tailwind AI Dashboard |
+| 🤖 IncodeVision Internship | AI Internship Projects |
+| ⚙️ CodeAlpha Automation | Python Automation Scripts |
+| 🐍 Python Basics to Projects | Beginner → Advanced Python Journey |
+| 🎮 Snake Game AI | JavaScript Game Jam Project |
+
 </div>
 
 ---
 
-# 💜 Favorite Quote
+# 🏅 Certifications
 
 <div align="center">
 
-> **"Dream big. Start small. Build consistently."**
+🥇 Google for Developers
+
+🥇 Kaggle Learn
+
+🥇 Nexus AI Quiz Ignite 2026
+
+🥇 CodeAlpha Internship
+
+🥇 IncodeVision Internship
+
+🥇 Syntecxhub Python Internship
 
 </div>
 
 ---
 
-# ⚡ Visitor Counter
+# 📬 Let's Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+💼 **LinkedIn**
+<br>
+https://www.linkedin.com/in/bhoomi-jain-3287803b5
+
+📧 **Email**
+<br>
+bhoomijn4@gmail.com
+
+💻 **GitHub**
+<br>
+https://github.com/bhoomijn
 
 </div>
 
 ---
 
+# 💭 Philosophy
+
+> **"Consistency beats intensity. Every small project is another step toward becoming a great AI Engineer."**
+
+---
+
+# 👀 Profile Views
+
 <div align="center">
 
-# ⭐ Thanks for Visiting!
+<img src="https://komarev.com/ghpvc/?username=bhoomijn&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
-### If you like my work, don't forget to ⭐ my repositories.
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,30:7F5AF0,60:A855F7,100:9333EA&height=120&section=footer"/>
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### If you like my work...
+
+⭐ Star my repositories
+
+🍴 Fork projects
+
+🤝 Connect on LinkedIn
+
+💡 Collaborate on AI Projects
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:2CB67D"/>
+
+## 🚀 Keep Learning • Keep Building • Keep Growing
 
 </div>
