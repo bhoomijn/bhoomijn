@@ -1,51 +1,50 @@
-# Bhoomi Jain — Maker of Clean ML & Polished UIs ✨
+# नमस्ते — मैं Bhoomi 👋
 
-I build tight, demo‑ready ML prototypes, practical automation tools, and clean front‑end experiences that look and feel product‑ready.
+मैं Full‑Stack Developer / SWE (Frontend + Full‑Stack) — React, Tailwind, Node.js, और छोटे‑बड़े AI प्रोटोटाइप बनाता/चलाता हूँ।
 
-Think: demos that run in 5 minutes, docs that don’t suck, and repos anyone can show in an interview.
+> Open to opportunities: SWE (Frontend / Full‑Stack). Actively interviewing and available for offers.
 
-Highlights
-- Role: Software Engineer — Python, React, ML prototypes
-- Focus: practical ML + tooling, UX polish, and fast iteration
-- Open to: freelance gigs, short contracts, collaborations
+---
 
-Featured Projects
-- AgriVision‑AI — Plant disease detection demo (Python, Flask, tiny vision model)
-  https://github.com/bhoomijn/AgriVision-AI
-- AI‑Galaxy‑Dashboard — Neon/dark dashboard prototype (React + Tailwind)
-  https://github.com/bhoomijn/AI-Galaxy-Dashboard
-- CodeAlpha_Automation — Automation scripts & small utilities (Python)
-  https://github.com/bhoomijn/CodeAlpha_Automation
+## 🔭 Featured projects
+- AgriVision‑AI — AI‑powered crop disease detection platform (Vision Transformer). Demo & details: https://github.com/bhoomijn/AgriVision-AI
+- AI‑Galaxy‑Dashboard — React + Tailwind hackathon dashboard with polished UI: https://github.com/bhoomijn/AI-Galaxy-Dashboard
+- CodeAlpha_Automation — Automation scripts from internship (Python): https://github.com/bhoomijn/CodeAlpha_Automation
 
-What I build
-- Tiny ML demos you can run and explain in minutes (not months)
-- Automation that removes repetitive manual steps
-- Polished React components with a focus on UX and delivery
+(If you want different repos pinned, reply with the repo names or say “auto: pin the three listed”.)
 
-Ready‑to‑run demo (example)
-- AgriVision‑AI (run locally):
+## ⚙️ Tech & tools
+- Languages: JavaScript, Python
+- Frontend: React, Tailwind CSS, basic Next.js
+- Backend: Node.js, Express, REST APIs
+- ML / AI: Prototype vision models, data pipelines (notebooks)
+- Tools: Git, Docker, GitHub Actions, Vercel / Netlify
 
-  git clone https://github.com/bhoomijn/AgriVision-AI
-  cd AgriVision-AI
-  python -m venv .venv && source .venv/bin/activate
-  pip install -r requirements.txt
-  python app.py
-  Open http://localhost:5000
+## 🧭 Quick links
+- LinkedIn: https://linkedin.com/in/your-linkedin  (replace with your LinkedIn)
+- Email: yourname@example.com (replace with your email)
+- Resume: add `resume.pdf` to this repo root and I will link it here
 
-What I can do for you
-- Turn a PoC into a demo with a short GIF and one‑click deploy
-- Add a minimal CI pipeline + tests so the project is reviewable
-- Clean README + quickstart so non‑technical folks can run it
+## 📌 How to explore my work
+1. Open any featured repo above.
+2. Check the top of the repo README for a demo GIF / live link and a 2‑line summary.
+3. Run the project using the Quick Start steps in each README.
 
-Tech stack
-Python • Flask • PyTorch/TensorFlow (mini models) • JavaScript • React • Tailwind • Vite • Docker • GitHub Actions
+---
 
-Contact
-- LinkedIn: https://www.linkedin.com/in/bhoomi-jain-3287803b5
-- Email: bhoomijn4@gmail.com
+## 📊 GitHub stats
+![Bhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=default)
 
-Extras
-- Resume: add `resume.pdf` at repo root and I’ll link it here
-- Demos: add `docs/demo.gif` or `docs/screenshot.png` in each repo and I’ll surface them in the README
+---
 
-Made with a tiny obsession for polish — want this turned into a single‑page portfolio site? I can scaffold it and deploy to Vercel in one PR.
+What I'll do next (I can proceed now):
+1) Pin the three repos listed above on your profile (confirm by replying “pin: auto”).
+2) Improve each featured repo README to include: short description, tech stack, demo GIF placeholder, 3‑step Quick Start, and CI badges.
+3) Add a resume.pdf and avatar if you upload them and I will link them from this README.
+
+Reply with:
+- Confirm pin action: `pin: auto` or list repos to pin.
+- Your LinkedIn URL and email to add.
+- Say `go update READMEs` if you want me to update the three featured project READMEs now.
+
+(If you prefer English-only or a different tone, say so — I will adapt.)
