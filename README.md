@@ -1,50 +1,50 @@
-# नमस्ते — मैं Bhoomi 👋
+# Bhoomi Jain ✨ — Maker of clean ML + polished UIs
 
-मैं Full‑Stack Developer / SWE (Frontend + Full‑Stack) — React, Tailwind, Node.js, और छोटे‑बड़े AI प्रोटोटाइप बनाता/चलाता हूँ। मैं production‑ready projects, clear documentation और तेज़ user experiences बनाना पसंद करता/करती हूँ.
+I build small, useful ML demos, automation that actually saves time, and front‑end projects that look like they were made for a slick product launch — not just homework.
 
-> Open to opportunities: SWE (Frontend / Full‑Stack). Actively interviewing and available for offers.
+🚀 TL;DR
+- I ship practical prototypes that people can run in 5 minutes.
+- I care about UX polish, tiny fast models, and automation that removes pain.
+- Looking for collabs, freelance gigs & short ML/product projects.
 
----
+What I actually build
+- Tiny ML demos you can run locally and show off to non‑technical people.
+- Automation scripts that remove annoying manual work.
+- Reusable React UI bits with clean animations and a neon/dark aesthetic when it fits.
 
-## 🔭 Featured projects
-- AgriVision‑AI — AI‑powered crop disease detection platform (Vision Transformer). Demo & details: https://github.com/bhoomijn/AgriVision-AI
-- AI‑Galaxy‑Dashboard — React + Tailwind hackathon dashboard with polished UI: https://github.com/bhoomijn/AI-Galaxy-Dashboard
-- CodeAlpha_Automation — Automation scripts from internship (Python): https://github.com/bhoomijn/CodeAlpha_Automation
+Featured (hot)
+- AgriVision‑AI — Plant disease detection demo (Python, Flask, small ML)  
+  https://github.com/bhoomijn/AgriVision-AI — demoable in minutes
+- AI‑Galaxy‑Dashboard — Neon‑dark dashboard prototype (React + Tailwind)  
+  https://github.com/bhoomijn/AI-Galaxy-Dashboard — polished UI hacks
+- CodeAlpha_Automation — Practical automation scripts (Python)  
+  https://github.com/bhoomijn/CodeAlpha_Automation — tools that save time
 
-(If you want different repos pinned, reply with the repo names or say “auto: pin the three listed”.)
+Skills & tools
+Python • Flask • PyTorch/TensorFlow (mini models) • JavaScript • React • Tailwind • Vite • Docker • GitHub Actions
 
-## ⚙️ Tech & tools
-- Languages: JavaScript, Python
-- Frontend: React, Tailwind CSS, basic Next.js
-- Backend: Node.js, Express, REST APIs
-- ML / AI: Prototype vision models, data pipelines (notebooks)
-- Tools: Git, Docker, GitHub Actions, Vercel / Netlify
+Quick demo (run in 5 mins)
+- AgriVision-AI:
+  git clone https://github.com/bhoomijn/AgriVision-AI
+  cd AgriVision-AI
+  python -m venv .venv && source .venv/bin/activate
+  pip install -r requirements.txt
+  python app.py
+  Open http://localhost:5000
 
-## 🧭 Quick links
-- LinkedIn: https://linkedin.com/in/your-linkedin  (replace with your LinkedIn)
-- Email: yourname@example.com (replace with your email)
-- Resume: add `resume.pdf` to this repo root and I will link it here
+Need something specific?
+- I can:
+  - Turn a proof‑of‑concept into a demo with a GIF and deploy it.
+  - Add CI + quick tests and a deploy config (Vercel/Netlify).
+  - Clean up docs and make the repo investor/demo‑ready.
 
-## 📌 How to explore my work
-1. Open any featured repo above.
-2. Check the top of the repo README for a demo GIF / live link and a 2‑line summary.
-3. Run the project using the Quick Start steps in each README.
+Contact & socials
+- LinkedIn: https://www.linkedin.com/in/bhoomi-jain-3287803b5
+- Email: bhoomijn4@gmail.com
+- Want my resume in this repo? say “upload resume”
 
----
+Fun facts
+- I prefer small, thoughtful projects over huge half‑done ones.
+- If it looks nice and ships, it wins.
 
-## 📊 GitHub stats
-![Bhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=default)
-
----
-
-What I'll do next (I can proceed now):
-1) Pin the three repos listed above on your profile (confirm by replying “pin: auto”).
-2) Improve each featured repo README to include: short description, tech stack, demo GIF placeholder, 3‑step Quick Start, and CI badges.
-3) Add a resume.pdf and avatar if you upload them and I will link them from this README.
-
-Reply with:
-- Confirm pin action: `pin: auto` or list repos to pin.
-- Your LinkedIn URL and email to add.
-- Say `go update READMEs` if you want me to update the three featured project READMEs now.
-
-(If you prefer English-only or a different tone, say so — I will adapt.)
+Made with ✨ and a tiny obsession for details.
