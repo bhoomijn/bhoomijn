@@ -532,21 +532,28 @@ If you find my projects useful,
 
 ---
 
-# 🌟 Featured Repositories
-
-<div align="center">
+## 🌟 Featured Repositories
 
 | Repository | Description |
-|------------|-------------|
+|---|---|
 | 🌾 AgriVision-AI | AI-powered crop disease detection using Vision Transformer |
-| 🌌 AI-Galaxy-Dashboard | Modern React + Tailwind AI Dashboard |
-| 🤖 IncodeVision Internship | AI Internship Projects |
-| ⚙️ CodeAlpha Automation | Python Automation Scripts |
-| 🐍 Python Basics to Projects | Beginner → Advanced Python Journey |
-| 🎮 Snake Game AI | JavaScript Game Jam Project |
+| 🌌 AI-Galaxy-Dashboard | Modern React + Tailwind AI Dashboard built for Hackathon |
+| 🤖 IncodeVision-Internship-Tasks | AI Internship Projects - Chatbot, Spam Detection, Movie Recommendation & Resume Screening |
+| ⚙️ CodeAlpha-Automation-Scripts | Python Automation Projects developed during internship |
+| 🐍 Python-Basics-to-Projects | Python learning journey from fundamentals to practical projects |
 
-</div>
+---
 
+## 📂 Other Projects
+
+- 🎮 AI Snake Game
+- 🐍 Snake Water Gun Game
+- 📝 To-Do List Manager
+- 🎯 Number Guessing Game
+- 🧮 Simple Calculator
+- 🎭 Hangman Game
+- 📈 Stock Portfolio Tracker
+  
 ---
 
 # 🏅 Certifications
