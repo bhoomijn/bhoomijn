@@ -133,7 +133,7 @@ class BhoomiJain:
 
     role = "AI Student"
 
-    university = "VIT Bhopal"
+    university = "VIT"
 
     interests = [
         "Artificial Intelligence",
