@@ -30,7 +30,7 @@ Currently, I am strengthening my programming and computer science foundations wh
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 👩‍💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,7 +38,7 @@ Currently, I am strengthening my programming and computer science foundations wh
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### AI, Machine Learning & Development
+### 🤖 AI, Machine Learning & Development
 
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
@@ -48,7 +48,7 @@ Currently, I am strengthening my programming and computer science foundations wh
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### Web Technologies
+### 🌐 Web Technologies
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,7 +56,7 @@ Currently, I am strengthening my programming and computer science foundations wh
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -71,93 +71,130 @@ Currently, I am strengthening my programming and computer science foundations wh
 
 Projects demonstrating my interest in AI applications, Python development, programming fundamentals and practical problem-solving.
 
-### 🌾 AgriVision AI — AI-Powered Crop Disease Detection
+### 🌾 1. AgriVision AI — AI-Powered Crop Disease Detection
 
-[![AgriVision AI](https://img.shields.io/badge/View_Project-AgriVision_AI-2E8B57?style=for-the-badge&logo=github)](https://github.com/bhoomijn/AgriVision-AI)
+<a href="https://github.com/bhoomijn/AgriVision-AI"><img src="https://img.shields.io/badge/Explore_Project-AgriVision_AI-2E8B57?style=for-the-badge&logo=github"/></a>
 
 An AI-powered agriculture platform that analyzes crop leaf images to identify diseases and provide useful farming insights.
 
-- Vision Transformer-based crop disease classification.
-- Image-based disease prediction with confidence scores.
-- Treatment recommendations and smart farming insights.
-- API-based application architecture.
+**Key Features**
+- 📷 Crop leaf image analysis.
+- 🤖 Vision Transformer-based disease classification.
+- 🎯 Confidence-based prediction results.
+- 🌱 Treatment recommendations and smart farming insights.
+- 🌾 Farmer-focused application interface.
 
-**Technologies:** Python, PyTorch, FastAPI, Hugging Face Transformers, HTML, CSS, JavaScript.
+**Technologies:** `Python` `PyTorch` `FastAPI` `Hugging Face Transformers` `HTML` `CSS` `JavaScript`
 
-### 🎙️ PyVoiceAI — Python Voice Assistant
+### 🎙️ 2. PyVoiceAI — Python Voice Assistant
 
-[![PyVoiceAI](https://img.shields.io/badge/View_Project-PyVoiceAI-6A5ACD?style=for-the-badge&logo=github)](https://github.com/bhoomijn/PyVoiceAI)
+<a href="https://github.com/bhoomijn/PyVoiceAI"><img src="https://img.shields.io/badge/Explore_Project-PyVoiceAI-6A5ACD?style=for-the-badge&logo=github"/></a>
 
 A Python voice assistant exploring speech recognition, command processing and spoken responses.
 
-- Microphone-based audio input.
-- Speech-to-text conversion.
-- Command processing and response generation.
-- Text-to-speech interaction.
+**Key Features**
+- 🎤 Microphone-based audio input.
+- 🗣️ Speech-to-text conversion.
+- 🧠 Command processing.
+- 🔊 Text-to-speech interaction.
 
-**Technologies:** Python, SpeechRecognition, pyttsx3, PyAudio.
+**Technologies:** `Python` `SpeechRecognition` `pyttsx3` `PyAudio`
 
-### 🎮 GameArcadeHub — Interactive Gaming Projects
+### 🎮 3. GameArcadeHub — Interactive Gaming Projects
 
-[![GameArcadeHub](https://img.shields.io/badge/View_Project-GameArcadeHub-FF8C00?style=for-the-badge&logo=github)](https://github.com/bhoomijn/GameArcadeHub)
+<a href="https://github.com/bhoomijn/GameArcadeHub"><img src="https://img.shields.io/badge/Explore_Project-GameArcadeHub-FF8C00?style=for-the-badge&logo=github"/></a>
 
 A collection of interactive games and programming experiments.
 
-- AI Snake Game
-- Snake-Water-Gun
+**Projects Include**
+- 🐍 AI Snake Game
+- 🎲 Snake-Water-Gun
+- 🔢 Number Guessing Game
+- 🎭 Hangman
+
+**Technologies:** `Python` `JavaScript` `HTML` `CSS`
+
+### 🤖 4. IncodeVision — AI Internship Projects
+
+<a href="https://github.com/bhoomijn/IncodeVision-Internship"><img src="https://img.shields.io/badge/Explore_Repository-IncodeVision-8A2BE2?style=for-the-badge&logo=github"/></a>
+
+A collection of AI-related Python projects involving:
+
+- 💬 Chatbot
+- 📩 Spam Detection
+- 🎬 Movie Recommendation System
+- 📄 Resume Screening
+
+**Focus Areas:** Python, Machine Learning concepts and Natural Language Processing.
+
+### 💻 5. CodeAlpha — Python Internship Projects
+
+<a href="https://github.com/bhoomijn/CodeAlpha-Internship"><img src="https://img.shields.io/badge/Explore_Repository-CodeAlpha-00A86B?style=for-the-badge&logo=github"/></a>
+
+Python-based projects and assignments, including:
+
+- Hangman Game
+- Stock Portfolio Tracker
+- CLI Utilities
+- NLP Assistant
+
+### ⚙️ 6. Syntecxhub — Python Internship Projects
+
+<a href="https://github.com/bhoomijn/Syntecxhub-Internship"><img src="https://img.shields.io/badge/Explore_Repository-Syntecxhub-FF69B4?style=for-the-badge&logo=github"/></a>
+
+Python programming projects focused on practical application development.
+
 - Number Guessing Game
-- Hangman
+- Task Manager
+- Utility Tools
 
-**Technologies:** Python, JavaScript, HTML, CSS.
+### 🐍 7. Python Complete Track — Programming Practice
 
-### 🤖 IncodeVision — AI Internship Projects
+<a href="https://github.com/bhoomijn/Python-Complete-Track"><img src="https://img.shields.io/badge/Explore_Repository-Python_Track-3776AB?style=for-the-badge&logo=python"/></a>
 
-[![IncodeVision](https://img.shields.io/badge/View_Repository-IncodeVision-8A2BE2?style=for-the-badge&logo=github)](https://github.com/bhoomijn/IncodeVision-Internship)
+A learning repository documenting Python programming concepts, exercises and projects.
 
-A collection of AI-related Python projects, including:
+**Topics:** Python fundamentals, data structures, functions, OOP, file handling, inheritance, advanced Python and mini projects.
 
-- Chatbot
-- Spam Detection
-- Movie Recommendation System
-- Resume Screening
+### ⚡ 8. C++ Programming Track — HackerRank Practice
 
-### 💻 Python Internship Projects
+<a href="https://github.com/bhoomijn/Cpp-Programming-Track"><img src="https://img.shields.io/badge/Explore_Repository-C++_Track-00599C?style=for-the-badge&logo=cplusplus"/></a>
 
-[![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Projects-00A86B?style=for-the-badge&logo=github)](https://github.com/bhoomijn/CodeAlpha-Internship)
-[![Syntecxhub](https://img.shields.io/badge/Syntecxhub-Projects-FF69B4?style=for-the-badge&logo=github)](https://github.com/bhoomijn/Syntecxhub-Internship)
+A collection of C++ solutions and coding exercises focused on building programming fundamentals and problem-solving skills.
 
-Python-based assignments and applications covering game development, task management, command-line utilities, portfolio tracking and introductory NLP.
-
-### 📚 Programming Practice
-
-[![Python Track](https://img.shields.io/badge/Python_Complete_Track-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/bhoomijn/Python-Complete-Track)
-[![C++ Track](https://img.shields.io/badge/CPP_Programming_Track-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/bhoomijn/Cpp-Programming-Track)
-
-Repositories documenting my programming practice, exercises, fundamentals and problem-solving journey in Python and C++.
+**Topics:** C++ basics, arrays, strings, functions, searching, sorting, recursion and STL.
 
 ---
 
 ## 💼 Internship Experience
 
-**Python Programming Intern — CodSoft**  
-*November 2026 – Present | Virtual*
+### 🐍 Python Programming Intern — CodSoft
+**November 2026 – Present | Virtual**
 
-Selected for a one-month Python programming internship focused on practical assignments and project-based learning.
+- Selected for a one-month Python programming internship.
+- Working on practical programming assignments and project-based tasks.
+- Applying Python concepts to structured problem-solving.
 
-**Python Developer Intern — CodeAlpha**  
-*July 2026 – August 2026*
+### 💻 Python Developer Intern — CodeAlpha
+**July 2026 – August 2026**
 
-Worked on Python-based programming tasks, including a Hangman game, stock portfolio tracker, command-line utilities and an NLP assistant.
+- Worked on Python-based programming tasks.
+- Developed projects including a Hangman game and Stock Portfolio Tracker.
+- Explored command-line utilities and NLP concepts.
 
-**AI Intern — IncodeVision**  
-*July 2026 – August 2026*
+### 🤖 AI Intern — IncodeVision
+**July 2026 – August 2026**
 
-Explored Python-based AI projects involving chatbot development, spam detection, movie recommendations and resume screening.
+- Worked on Python-based AI project tasks.
+- Explored chatbot development and spam detection.
+- Worked on movie recommendation and resume screening projects.
 
-**Python Intern — Syntecxhub**  
-*2026*
+### ⚙️ Python Intern — Syntecxhub
+**2026**
 
-Worked on Python programming assignments involving interactive games, task management and utility applications.
+- Worked on Python programming assignments.
+- Developed interactive game and task-management projects.
+- Explored command-line utility development.
 
 ---
 
@@ -166,17 +203,17 @@ Worked on Python programming assignments involving interactive games, task manag
 - 🥇 **Rank 1 — Nexus AI Quiz Ignite 2026**
 - 🌐 **Selected Contributor — Open Source Connect India 2026**
 - 🏅 **Merit Achievement — MnA 2026, IIT Guwahati**
-- 🌾 Participated in AgriVision AI activities.
-- 💡 Participated in AI-focused technical challenges and hackathons.
-- 🤝 Interested in open-source collaboration and developer communities.
+- 🌾 AgriVision AI project participation.
+- 💡 Participation in AI-focused technical challenges and hackathons.
+- 🤝 Interest in open-source collaboration and developer communities.
 
 ---
 
-## 📖 Learning Journey | 2026–2031
+## 📚 Learning Journey | 2026–2031
 
 My long-term focus is to build strong computer science foundations and gradually develop expertise in AI engineering.
 
-| Stage | Focus Areas |
+| Year | Learning Focus |
 |---|---|
 | **2026 — Foundations** | Python, C++, Git, GitHub, Linux and programming fundamentals |
 | **2027 — Core CS** | DSA, OOP, DBMS, SQL, Operating Systems and Computer Networks |
@@ -185,7 +222,7 @@ My long-term focus is to build strong computer science foundations and gradually
 | **2030 — AI Engineering** | APIs, FastAPI, Docker, MLOps, cloud and model deployment |
 | **2031 — Career Preparation** | Advanced projects, system design fundamentals, research and technical interviews |
 
-### 🔭 Areas I Plan to Explore
+### 🔭 Future Areas of Exploration
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -196,7 +233,7 @@ My long-term focus is to build strong computer science foundations and gradually
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -224,7 +261,7 @@ I am open to connecting with developers, learning from the tech community, colla
 
 <a href="https://github.com/bhoomijn"><img src="https://img.shields.io/badge/GitHub-bhoomijn-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="mailto:bhoomijn4@gmail.com"><img src="https://img.shields.io/badge/Email-bhoomijn4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:bhoomijn4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
