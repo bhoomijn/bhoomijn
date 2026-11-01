@@ -1,403 +1,230 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:7F5AF0,100:2CB67D&text=Bhoomi%20Jain&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:06B6D4&height=200&section=header&text=Bhoomi%20Jain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=15" width="100%"/>
 
-# 👋 Hello, I'm Bhoomi Jain
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Building+Practical+Technology+Projects;Exploring+Intelligent+Systems;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 
-### 🚀 Integrated M.Tech (Artificial Intelligence) Student @ VIT 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Hackathon+Participant;Building+Projects+Every+Day;Always+Learning+Something+New"/>
-
-<p>
-
-<a href="https://github.com/bhoomijn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/bhoomi-jain-3287803b5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:bhoomijn4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<a href="https://github.com/bhoomijn"><img src="https://img.shields.io/badge/GitHub-bhoomijn-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:bhoomijn4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👋 About Me
 
-🎓 Integrated M.Tech in Artificial Intelligence at **VIT**
+I am an **Integrated M.Tech student in Artificial Intelligence at VIT**, interested in developing practical applications using programming, Artificial Intelligence and Machine Learning.
 
-💻 Passionate about solving real-world problems using AI & Machine Learning
+I enjoy exploring how technology can solve real-world problems, from AI-powered agriculture applications to Python-based tools and interactive software projects.
 
-🌱 Currently learning
+Currently, I am strengthening my programming and computer science foundations while exploring AI/ML concepts through hands-on projects, technical challenges and collaborative learning.
 
-- Python
-- Data Structures
-- Machine Learning
-- Deep Learning
-- Git & GitHub
-
-🚀 Interested in
-
-- Artificial Intelligence
-- Computer Vision
-- Generative AI
-- LLM Applications
-- Smart Agriculture
-- Automation
-
-✨ Goal
-
-> Build impactful AI products that solve real-world problems.
+- 🎓 **Education:** Integrated M.Tech in Artificial Intelligence, VIT (2026–2031)
+- 🤖 **Primary Interest:** Artificial Intelligence and Machine Learning
+- 💻 **Programming:** Python and C++
+- 🌱 **Currently Learning:** Data Structures and Algorithms, Machine Learning and software development fundamentals
+- 🚀 **Career Interest:** AI/ML Engineering and intelligent application development
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### AI, Machine Learning & Development
+
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### Web Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Projects demonstrating my interest in AI applications, Python development, programming fundamentals and practical problem-solving.
+
+### 🌾 AgriVision AI — AI-Powered Crop Disease Detection
+
+[![AgriVision AI](https://img.shields.io/badge/View_Project-AgriVision_AI-2E8B57?style=for-the-badge&logo=github)](https://github.com/bhoomijn/AgriVision-AI)
+
+An AI-powered agriculture platform that analyzes crop leaf images to identify diseases and provide useful farming insights.
+
+- Vision Transformer-based crop disease classification.
+- Image-based disease prediction with confidence scores.
+- Treatment recommendations and smart farming insights.
+- API-based application architecture.
+
+**Technologies:** Python, PyTorch, FastAPI, Hugging Face Transformers, HTML, CSS, JavaScript.
+
+### 🎙️ PyVoiceAI — Python Voice Assistant
+
+[![PyVoiceAI](https://img.shields.io/badge/View_Project-PyVoiceAI-6A5ACD?style=for-the-badge&logo=github)](https://github.com/bhoomijn/PyVoiceAI)
+
+A Python voice assistant exploring speech recognition, command processing and spoken responses.
+
+- Microphone-based audio input.
+- Speech-to-text conversion.
+- Command processing and response generation.
+- Text-to-speech interaction.
+
+**Technologies:** Python, SpeechRecognition, pyttsx3, PyAudio.
+
+### 🎮 GameArcadeHub — Interactive Gaming Projects
+
+[![GameArcadeHub](https://img.shields.io/badge/View_Project-GameArcadeHub-FF8C00?style=for-the-badge&logo=github)](https://github.com/bhoomijn/GameArcadeHub)
+
+A collection of interactive games and programming experiments.
+
+- AI Snake Game
+- Snake-Water-Gun
+- Number Guessing Game
+- Hangman
+
+**Technologies:** Python, JavaScript, HTML, CSS.
+
+### 🤖 IncodeVision — AI Internship Projects
+
+[![IncodeVision](https://img.shields.io/badge/View_Repository-IncodeVision-8A2BE2?style=for-the-badge&logo=github)](https://github.com/bhoomijn/IncodeVision-Internship)
+
+A collection of AI-related Python projects, including:
+
+- Chatbot
+- Spam Detection
+- Movie Recommendation System
+- Resume Screening
+
+### 💻 Python Internship Projects
+
+[![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Projects-00A86B?style=for-the-badge&logo=github)](https://github.com/bhoomijn/CodeAlpha-Internship)
+[![Syntecxhub](https://img.shields.io/badge/Syntecxhub-Projects-FF69B4?style=for-the-badge&logo=github)](https://github.com/bhoomijn/Syntecxhub-Internship)
+
+Python-based assignments and applications covering game development, task management, command-line utilities, portfolio tracking and introductory NLP.
+
+### 📚 Programming Practice
+
+[![Python Track](https://img.shields.io/badge/Python_Complete_Track-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/bhoomijn/Python-Complete-Track)
+[![C++ Track](https://img.shields.io/badge/CPP_Programming_Track-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/bhoomijn/Cpp-Programming-Track)
+
+Repositories documenting my programming practice, exercises, fundamentals and problem-solving journey in Python and C++.
+
+---
+
+## 💼 Internship Experience
+
+**Python Programming Intern — CodSoft**  
+*November 2026 – Present | Virtual*
+
+Selected for a one-month Python programming internship focused on practical assignments and project-based learning.
+
+**Python Developer Intern — CodeAlpha**  
+*July 2026 – August 2026*
+
+Worked on Python-based programming tasks, including a Hangman game, stock portfolio tracker, command-line utilities and an NLP assistant.
+
+**AI Intern — IncodeVision**  
+*July 2026 – August 2026*
+
+Explored Python-based AI projects involving chatbot development, spam detection, movie recommendations and resume screening.
+
+**Python Intern — Syntecxhub**  
+*2026*
+
+Worked on Python programming assignments involving interactive games, task management and utility applications.
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🥇 **Rank 1 — Nexus AI Quiz Ignite 2026**
+- 🌐 **Selected Contributor — Open Source Connect India 2026**
+- 🏅 **Merit Achievement — MnA 2026, IIT Guwahati**
+- 🌾 Participated in AgriVision AI activities.
+- 💡 Participated in AI-focused technical challenges and hackathons.
+- 🤝 Interested in open-source collaboration and developer communities.
+
+---
+
+## 📖 Learning Journey | 2026–2031
+
+My long-term focus is to build strong computer science foundations and gradually develop expertise in AI engineering.
+
+| Stage | Focus Areas |
+|---|---|
+| **2026 — Foundations** | Python, C++, Git, GitHub, Linux and programming fundamentals |
+| **2027 — Core CS** | DSA, OOP, DBMS, SQL, Operating Systems and Computer Networks |
+| **2028 — AI/ML** | Mathematics, Statistics, NumPy, Pandas, Machine Learning and Deep Learning |
+| **2029 — Advanced AI** | PyTorch, NLP, Computer Vision, Generative AI, LLMs and RAG |
+| **2030 — AI Engineering** | APIs, FastAPI, Docker, MLOps, cloud and model deployment |
+| **2031 — Career Preparation** | Advanced projects, system design fundamentals, research and technical interviews |
+
+### 🔭 Areas I Plan to Explore
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Model Deployment
+- MLOps and Cloud Platforms
+- Scalable Intelligent Applications
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
-</p>
-
----
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-</p>
-
----
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs"/>
-</p>
-
----
-
-### 🛠 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
----
-
-### ☁️ Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
-</p>
-
-</div>
-
----
-
-# 💻 Currently Learning
-
-```text
-✔ Python Programming
-✔ C++
-✔ Data Structures & Algorithms
-✔ Machine Learning
-✔ Deep Learning
-✔ Git & GitHub
-⬜ Generative AI
-⬜ LLMs
-⬜ RAG Applications
-⬜ AI Agents
-⬜ MLOps
-```
-
----
-
-# 🚀 Developer Mindset
-
-```python
-class BhoomiJain:
-
-    role = "AI Student"
-
-    university = "VIT"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Python",
-        "Generative AI"
-    ]
-
-    motto = "Learn • Build • Improve • Repeat 🚀"
-```
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🌾 AgriVision AI
-
-AI-powered crop disease detection platform built for smart agriculture.
-
-#### ✨ Highlights
-
-- 🤖 Vision Transformer AI
-- 📷 Image Classification
-- 🎯 Disease Prediction
-- 📊 Confidence Score
-- 🌱 Smart Farming Insights
-
-**Tech**
-
-`Python`
-`HTML`
-`AI`
-`Computer Vision`
-
-<a href="https://github.com/bhoomijn/AgriVision-AI">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌌 AI Galaxy Dashboard
-
-Modern AI dashboard developed for a Hackathon.
-
-#### ✨ Highlights
-
-- React
-- Tailwind CSS
-- Responsive UI
-- Dark Theme
-- Neon Design
-
-**Tech**
-
-`React`
-`JavaScript`
-`Tailwind`
-
-<a href="https://github.com/bhoomijn/AI-Galaxy-Dashboard">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🤖 IncodeVision Internship
-
-Artificial Intelligence internship projects.
-
-✔ Chatbot
-
-✔ Spam Detection
-
-✔ Resume Screening
-
-✔ Movie Recommendation
-
-**Tech**
-
-`Python`
-
-`Machine Learning`
-
-`Data Science`
-
-<a href="https://github.com/bhoomijn/IncodeVision-Internship-Tasks-">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td>
-
-### ⚙️ CodeAlpha Automation
-
-Python automation scripts created during internship.
-
-#### Includes
-
-✔ Automation
-
-✔ Python
-
-✔ Productivity
-
-✔ Clean Code
-
-**Tech**
-
-`Python`
-
-<a href="https://github.com/bhoomijn/CodeAlpha_Automation">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-🥇 Google for Developers – AI & Creativity
-
-🥇 Google Student Ambassador Challenge 2026
-
-🥇 Kaggle Learn Certificates
-
-🥇 AI Hackathon Participant
-
-🥇 Multiple Internship Projects Completed
-
-🥇 Active Open Source Learner
-
----
-
-# 📜 Certifications
-
-🎖 Google for Developers
-
-🎖 Kaggle Learn
-
-🎖 Nexus AI Quiz Ignite 2026
-
-🎖 CodeAlpha Internship
-
-🎖 IncodeVision Internship
-
-🎖 Syntecxhub Python Internship
-
----
-
-# 📈 Current Focus
-
-```text
-🧠 Artificial Intelligence
-████████████████████ 100%
-
-🐍 Python
-███████████████████░ 95%
-
-🤖 Machine Learning
-████████████████░░░░ 80%
-
-💻 Data Structures
-█████████████░░░░░░░ 70%
-
-🌐 Web Development
-████████████░░░░░░░░ 65%
-
-🚀 Generative AI
-█████████░░░░░░░░░░░ 50%
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhoomijn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomijn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=bhoomijn&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=bhoomijn&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomijn&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomijn&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Let's Connect
+
+I am open to connecting with developers, learning from the tech community, collaborating on meaningful projects and exploring opportunities in Artificial Intelligence and software development.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bhoomijn/bhoomijn/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5/"><img src="https://img.shields.io/badge/LinkedIn-Bhoomi_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-</div>
+<a href="https://github.com/bhoomijn"><img src="https://img.shields.io/badge/GitHub-bhoomijn-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:bhoomijn4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhoomi-jain-3287803b5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bhoomijn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💜 Quote
-
-<div align="center">
-
-### ⭐ *"Every project begins with a single commit."*
+<a href="mailto:bhoomijn4@gmail.com"><img src="https://img.shields.io/badge/Email-bhoomijn4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -405,231 +232,10 @@ Python automation scripts created during internship.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:7F5AF0,100:2CB67D"/>
+### 💜 Learn Continuously. Build Thoughtfully. Create Impact.
 
-### 🚀 Thanks for visiting my GitHub Profile!
+*Building a strong foundation today for intelligent solutions tomorrow.*
 
-⭐ If you like my work, consider starring my repositories.
-
-</div>
-
-
-# 💼 Experience
-
-<div align="center">
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| 🤖 Artificial Intelligence Intern | IncodeVision | Jul 2026 – Present |
-| 🐍 Python Developer Intern | CodeAlpha | Jul 2026 – Present |
-| 💻 Python Programming Intern | Syntecxhub | 2026 |
-
-</div>
-
----
-
-# 🗺 Roadmap
-
-```text
-2026 ✅
-│
-├── Python
-├── Git & GitHub
-├── C++
-├── Internship
-├── Hackathons
-└── AI Projects
-
-2027 🚀
-│
-├── Data Structures
-├── Machine Learning
-├── Open Source
-└── More Projects
-
-2028 🎯
-│
-├── Deep Learning
-├── Computer Vision
-├── NLP
-└── Research
-
-2029 💡
-│
-├── Generative AI
-├── RAG
-├── LLM Applications
-└── AI Agents
-
-2030 🏆
-│
-├── MLOps
-├── Large Scale AI
-├── Top Internship
-└── Placement Preparation
-
-2031 ⭐
-│
-└── AI Engineer
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 20+ Projects
-- ✅ Master Python
-- ✅ Learn DSA
-- ✅ Learn Machine Learning
-- ✅ Participate in Hackathons
-- ✅ Contribute to Open Source
-- ✅ Grow GitHub Portfolio
-
----
-
-# 🌟 Fun Facts
-
-```python
-bhoomi = {
-    "coffee": False,
-    "tea": True,
-    "favorite_language": "Python 🐍",
-    "dream_role": "AI Engineer",
-    "currently_learning": [
-        "Python",
-        "Machine Learning",
-        "Git",
-        "DSA"
-    ],
-    "motto": "Learn • Build • Repeat 🚀"
-}
-```
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 🌾 AI in Agriculture
-- ⚡ Automation
-- 🌐 Web Development
-
----
-
-# ❤️ Support My Work
-
-If you find my projects useful,
-
-⭐ Star the repositories
-
-🍴 Fork them
-
-💬 Share feedback
-
-🤝 Let's collaborate
-
----
-
-## 🌟 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| 🌾 AgriVision-AI | AI-powered crop disease detection using Vision Transformer |
-| 🌌 AI-Galaxy-Dashboard | Modern React + Tailwind AI Dashboard built for Hackathon |
-| 🤖 IncodeVision-Internship-Tasks | AI Internship Projects - Chatbot, Spam Detection, Movie Recommendation & Resume Screening |
-| ⚙️ CodeAlpha-Automation-Scripts | Python Automation Projects developed during internship |
-| 🐍 Python-Basics-to-Projects | Python learning journey from fundamentals to practical projects |
-
----
-
-## 📂 Other Projects
-
-- 🎮 AI Snake Game
-- 🐍 Snake Water Gun Game
-- 📝 To-Do List Manager
-- 🎯 Number Guessing Game
-- 🧮 Simple Calculator
-- 🎭 Hangman Game
-- 📈 Stock Portfolio Tracker
-  
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-🥇 Google for Developers
-
-🥇 Kaggle Learn
-
-🥇 Nexus AI Quiz Ignite 2026
-
-🥇 CodeAlpha Internship
-
-🥇 IncodeVision Internship
-
-🥇 Syntecxhub Python Internship
-
-</div>
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-💼 **LinkedIn**
-<br>
-https://www.linkedin.com/in/bhoomi-jain-3287803b5
-
-📧 **Email**
-<br>
-bhoomijn4@gmail.com
-
-💻 **GitHub**
-<br>
-https://github.com/bhoomijn
-
-</div>
-
----
-
-# 💭 Philosophy
-
-> **"Consistency beats intensity. Every small project is another step toward becoming a great AI Engineer."**
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhoomijn&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
----
-
-# ❤️ Thanks for Visiting
-
-<div align="center">
-
-### If you like my work...
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Connect on LinkedIn
-
-💡 Collaborate on AI Projects
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:2CB67D"/>
-
-## 🚀 Keep Learning • Keep Building • Keep Growing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:06B6D4&height=110&section=footer" width="100%"/>
 
 </div>
